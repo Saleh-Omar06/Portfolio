@@ -1,0 +1,10 @@
+Saleh Omar
+
+Computer Science with Cyber Security student.
+
+Projects:
+- Python Expense Tracker
+
+Interests:
+- Programming
+- Cyber Security
