@@ -8,3 +8,6 @@ Projects:
 Interests:
 - Programming
 - Cyber Security
+
+Hobbies:
+- Football
